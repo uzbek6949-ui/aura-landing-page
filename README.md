@@ -2,12 +2,12 @@
 
 A workspace for experimenting with Claude Code.
 
-## Geting started
+## Getting started
 
-1. Install dependancies
+1. Install dependencies
 2. Run the project
 3. Explore the code
 
 ## Contributing
 
-Pull requests are welcme! Please open an issue first to discuss changes.
+Pull requests are welcome! Please open an issue first to discuss changes.
