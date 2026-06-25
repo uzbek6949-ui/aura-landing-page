@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "title": "Aura — Moliyangiz avtomatik boshqaruvda",
+    "description": "Aura sun'iy intellekt yordamida xarajatlaringizni kuzatadi va o'zini o'zi sozlaydigan byudjet tuzadi — siz o'ylamasdan ham tejaysiz. Erta kirish ro'yxatiga yoziling."
+  },
+  "nav": {
+    "features": "Imkoniyatlar",
+    "how": "Qanday ishlaydi",
+    "pricing": "Narxlar",
+    "faq": "Savollar",
+    "cta": "Ro'yxatga yozilish"
+  },
+  "hero": {
+    "badge": "Erta kirish — joylar cheklangan",
+    "title": "Pulingiz, nihoyat, avtomatik boshqaruvda.",
+    "highlight": "avtomatik boshqaruvda",
+    "subtitle": "Aura xarajatlaringizni kuzatadi, odatlaringizni o'rganadi va o'zini o'zi sozlaydigan byudjet tuzadi — siz o'ylamasdan ham tejaysiz.",
+    "note": "Ishga tushganda bepul · Karta shart emas · Istalgan vaqtda chiqasiz"
+  },
+  "stats": {
+    "title": "Erta foydalanuvchilar ishonadi",
+    "items": {
+      "waitlist": { "value": "12 000+", "label": "Ro'yxatdagi odamlar" },
+      "saved": { "value": "$430", "label": "Oyiga o'rtacha tejaladi" },
+      "setup": { "value": "30 soniya", "label": "Ulanib, boshlash uchun" },
+      "security": { "value": "256-bit", "label": "Bank darajasidagi himoya" }
+    }
+  },
+  "features": {
+    "title": "Pulingizga kerak bo'lgan hamma narsa — avtomatik",
+    "subtitle": "Aura byudjet ishini siz o'rniga bajaradi. Jadvallar yo'q, qo'lda belgilash yo'q, bosh og'rig'i yo'q.",
+    "items": {
+      "budget": {
+        "title": "AI avtomatik byudjet",
+        "desc": "Aura har oy aslida nimaga sarflaganingizga qarab byudjetni tuzadi va qayta muvozanatlaydi."
+      },
+      "tracking": {
+        "title": "Oson kuzatuv",
+        "desc": "Har bir tranzaksiya avtomatik tarzda toifalanadi. Jadval ham, qo'lda yorliqlash ham kerak emas."
+      },
+      "insights": {
+        "title": "Bashoratli tahlillar",
+        "desc": "O'z odatlaringizga asoslangan bashoratlar bilan ortiqcha xarajatni oldindan ko'ring."
+      },
+      "goals": {
+        "title": "Moslashuvchan maqsadlar",
+        "desc": "Maqsad qo'ying — hayotingiz o'zgargani sari Aura rejangizni o'zi moslaydi."
+      },
+      "accounts": {
+        "title": "Barcha hisoblar bir joyda",
+        "desc": "Har bir karta va hisobni ulang — pulingizning yagona aniq manzarasi."
+      },
+      "privacy": {
+        "title": "Maxfiylik asosga qurilgan",
+        "desc": "Bank darajasidagi shifrlash. Ma'lumotlaringiz o'zingizniki — hech qachon sotilmaydi."
+      }
+    }
+  },
+  "how": {
+    "title": "Tejash — uchta oddiy qadamda",
+    "subtitle": "Bir marta sozlang. Qolganini Aura o'zi qiladi.",
+    "steps": {
+      "connect": {
+        "title": "Hisoblaringizni ulang",
+        "desc": "Bank kartalaringizni bir necha soniyada, bank darajasidagi shifrlash bilan xavfsiz ulang."
+      },
+      "learn": {
+        "title": "Aura o'rgansin",
+        "desc": "Sun'iy intellektimiz xarajatlaringizni o'rganib, har bir tranzaksiyani siz uchun toifalaydi."
+      },
+      "save": {
+        "title": "Avtomatik tejang",
+        "desc": "Yashab turuvchi byudjet va o'z vaqtidagi tahlillar sizni harakatsiz ham yo'lda ushlab turadi."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Odamlar allaqachon ko'proq tejayapti",
+    "subtitle": "Erta foydalanuvchilarimizdan bir necha so'z.",
+    "items": {
+      "one": {
+        "quote": "Turmush tarzimni umuman o'zgartirmasdan, dastlabki uch oyda $1 200 tejadim.",
+        "name": "Dilnoza R.",
+        "role": "Mahsulot dizayneri"
+      },
+      "two": {
+        "quote": "Nihoyat, ish o'rnimga o'zi bajaradigan byudjet ilovasi. U qanday sarflashimni shunchaki tushunadi.",
+        "name": "Sardor K.",
+        "role": "Dasturchi"
+      },
+      "three": {
+        "quote": "Aura men butunlay unutib yuborgan obunani topib, darhol pulimni tejab berdi.",
+        "name": "Marina V.",
+        "role": "O'qituvchi"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Sodda va halol narxlar",
+    "subtitle": "Bepul boshlang. Tayyor bo'lganingizdagina yangilang.",
+    "note": "Erta a'zolar Plus uchun 50% chegirmani — umrbod saqlab qoladi.",
+    "perMonth": "/oy",
+    "popular": "Eng mashhur",
+    "plans": {
+      "free": {
+        "name": "Bepul",
+        "price": "$0",
+        "desc": "Tejashni boshlash uchun kerak bo'lgan hamma narsa.",
+        "features": ["Avtomatik byudjet", "2 tagacha hisob", "Xarajat tahlillari", "Oylik hisobot"]
+      },
+      "plus": {
+        "name": "Plus",
+        "price": "$6",
+        "desc": "Tejashga jiddiy yondashganlar uchun.",
+        "features": ["Cheksiz hisoblar", "Bashoratli prognozlar", "Maxsus maqsad va ogohlantirishlar", "Ustuvor qo'llab-quvvatlash"]
+      }
+    }
+  },
+  "faq": {
+    "title": "Ko'p beriladigan savollar",
+    "subtitle": "Hali ham qiziqyapsizmi? Eng ko'p so'raladigan savollar.",
+    "items": {
+      "safe": {
+        "q": "Moliyaviy ma'lumotlarim xavfsizmi?",
+        "a": "Ha. Aura 256-bitli, bank darajasidagi shifrlashdan foydalanadi va ma'lumotlaringizni hech qachon sotmaydi. Ma'lumotingiz faqat sizniki."
+      },
+      "bank": {
+        "q": "Aura mening bankim bilan ishlaydimi?",
+        "a": "Ishga tushganda yirik banklarni qo'llab-quvvatlaymiz, ro'yxat esa har hafta o'sib boradi. Ro'yxatga yoziling — sizniki qo'shilishi bilanoq xabar beramiz."
+      },
+      "cost": {
+        "q": "Narxi qancha?",
+        "a": "Aura bepul boshlanadi. Plus rejasi taxminan $6/oy — ro'yxatdagilar esa 50% chegirmani umrbod saqlab qoladi."
+      },
+      "launch": {
+        "q": "Qachon ishga tushadi?",
+        "a": "Ro'yxatdagilarga bosqichma-bosqich ochilyapmiz. Erta kirish joyini band qilish uchun hoziroq yoziling."
+      },
+      "card": {
+        "q": "Yozilish uchun karta kerakmi?",
+        "a": "Yo'q. Ro'yxat uchun faqat elektron pochtangiz kerak — boshqa hech narsa."
+      }
+    }
+  },
+  "cta": {
+    "title": "Pulingizni nazoratga oling — hech qiynalmasdan.",
+    "subtitle": "Auraga erta kirayotgan minglab odamga qo'shiling. Faqat elektron pochtangiz kerak."
+  },
+  "form": {
+    "placeholder": "Elektron pochtangizni kiriting",
+    "button": "Ro'yxatga yozilish",
+    "loading": "Yozilyapti…",
+    "success": "Ro'yxatdasiz! Joyingiz ochilishi bilanoq xat yo'llaymiz.",
+    "invalid": "Iltimos, to'g'ri elektron pochta kiriting.",
+    "error": "Nimadir xato ketdi. Iltimos, qayta urinib ko'ring."
+  },
+  "footer": {
+    "tagline": "Moliyangiz avtomatik boshqaruvda.",
+    "columns": {
+      "product": { "title": "Mahsulot", "features": "Imkoniyatlar", "pricing": "Narxlar", "how": "Qanday ishlaydi", "faq": "Savollar" },
+      "company": { "title": "Kompaniya", "about": "Biz haqimizda", "blog": "Blog", "careers": "Vakansiyalar", "contact": "Aloqa" },
+      "legal": { "title": "Huquqiy", "privacy": "Maxfiylik", "terms": "Shartlar", "security": "Xavfsizlik" }
+    },
+    "rights": "Barcha huquqlar himoyalangan.",
+    "madeWith": "Byudjet haqida o'ylashni xohlamaydiganlar uchun yaratilgan."
+  }
+}

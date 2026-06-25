@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "title": "Aura — Personal finance on autopilot",
+    "description": "Aura uses AI to track your spending and build a budget that adjusts itself, so you save without thinking about it. Join the early-access waitlist."
+  },
+  "nav": {
+    "features": "Features",
+    "how": "How it works",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "cta": "Join waitlist"
+  },
+  "hero": {
+    "badge": "Early access — limited spots",
+    "title": "Your money, finally on autopilot.",
+    "highlight": "on autopilot",
+    "subtitle": "Aura watches your spending, learns your habits, and builds a budget that adjusts itself — so you save without thinking about it.",
+    "note": "Free at launch · No credit card · Leave anytime"
+  },
+  "stats": {
+    "title": "Trusted by early savers",
+    "items": {
+      "waitlist": { "value": "12,000+", "label": "People on the waitlist" },
+      "saved": { "value": "$430", "label": "Average saved per month" },
+      "setup": { "value": "30 sec", "label": "To connect and start" },
+      "security": { "value": "256-bit", "label": "Bank-level encryption" }
+    }
+  },
+  "features": {
+    "title": "Everything your money needs, automated",
+    "subtitle": "Aura does the budgeting work so you don't have to. No spreadsheets, no manual tagging, no stress.",
+    "items": {
+      "budget": {
+        "title": "AI auto-budgeting",
+        "desc": "Aura builds and rebalances your budget every month based on what you actually spend."
+      },
+      "tracking": {
+        "title": "Effortless tracking",
+        "desc": "Every transaction is categorized automatically. No spreadsheets, no manual tagging."
+      },
+      "insights": {
+        "title": "Predictive insights",
+        "desc": "See overspending before it happens with forecasts built from your own patterns."
+      },
+      "goals": {
+        "title": "Goals that adapt",
+        "desc": "Set a goal and Aura adjusts your plan automatically as your life changes."
+      },
+      "accounts": {
+        "title": "All accounts in one place",
+        "desc": "Connect every card and account for one clear picture of your money."
+      },
+      "privacy": {
+        "title": "Private by design",
+        "desc": "Bank-level encryption. Your data is yours — never sold, ever."
+      }
+    }
+  },
+  "how": {
+    "title": "Saving, in three simple steps",
+    "subtitle": "Set it up once. Aura takes care of the rest.",
+    "steps": {
+      "connect": {
+        "title": "Connect your accounts",
+        "desc": "Securely link your bank cards in seconds with bank-grade encryption."
+      },
+      "learn": {
+        "title": "Let Aura learn",
+        "desc": "Our AI studies your spending and categorizes every transaction for you."
+      },
+      "save": {
+        "title": "Save on autopilot",
+        "desc": "Get a living budget and timely insights that keep you on track effortlessly."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "People are already saving more",
+    "subtitle": "A few words from our early-access members.",
+    "items": {
+      "one": {
+        "quote": "I saved $1,200 in my first three months without changing my lifestyle at all.",
+        "name": "Dilnoza R.",
+        "role": "Product Designer"
+      },
+      "two": {
+        "quote": "Finally a budget app that does the work for me. It just gets how I spend.",
+        "name": "Sardor K.",
+        "role": "Software Engineer"
+      },
+      "three": {
+        "quote": "Aura caught a subscription I'd completely forgotten about and saved me money instantly.",
+        "name": "Marina V.",
+        "role": "Teacher"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Simple, honest pricing",
+    "subtitle": "Start free. Upgrade only when you're ready.",
+    "note": "Early members lock in 50% off Plus — for life.",
+    "perMonth": "/mo",
+    "popular": "Most popular",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "$0",
+        "desc": "Everything you need to start saving.",
+        "features": ["Automatic budgeting", "Up to 2 accounts", "Spending insights", "Monthly summary"]
+      },
+      "plus": {
+        "name": "Plus",
+        "price": "$6",
+        "desc": "For people serious about saving.",
+        "features": ["Unlimited accounts", "Predictive forecasts", "Custom goals & alerts", "Priority support"]
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Still curious? Here's what people ask most.",
+    "items": {
+      "safe": {
+        "q": "Is my financial data safe?",
+        "a": "Yes. Aura uses 256-bit, bank-level encryption and never sells your data. Your information is yours alone."
+      },
+      "bank": {
+        "q": "Does Aura work with my bank?",
+        "a": "At launch we support major banks, and the list grows every week. Join the waitlist and we'll tell you the moment yours is supported."
+      },
+      "cost": {
+        "q": "How much does it cost?",
+        "a": "Aura is free to start. The Plus plan is about $6/month — and waitlist members lock in 50% off for life."
+      },
+      "launch": {
+        "q": "When does it launch?",
+        "a": "We're rolling out to the waitlist in batches. Join now to secure an early-access spot."
+      },
+      "card": {
+        "q": "Do I need a credit card to join?",
+        "a": "No. The waitlist only needs your email — nothing else."
+      }
+    }
+  },
+  "cta": {
+    "title": "Take control of your money — effortlessly.",
+    "subtitle": "Join thousands getting early access to Aura. It only takes your email."
+  },
+  "form": {
+    "placeholder": "Enter your email",
+    "button": "Join the waitlist",
+    "loading": "Joining…",
+    "success": "You're on the list! We'll email you the moment your spot opens.",
+    "invalid": "Please enter a valid email address.",
+    "error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "tagline": "Personal finance on autopilot.",
+    "columns": {
+      "product": { "title": "Product", "features": "Features", "pricing": "Pricing", "how": "How it works", "faq": "FAQ" },
+      "company": { "title": "Company", "about": "About", "blog": "Blog", "careers": "Careers", "contact": "Contact" },
+      "legal": { "title": "Legal", "privacy": "Privacy", "terms": "Terms", "security": "Security" }
+    },
+    "rights": "All rights reserved.",
+    "madeWith": "Built for people who'd rather not think about budgets."
+  }
+}
