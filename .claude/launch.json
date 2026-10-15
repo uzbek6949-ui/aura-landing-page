@@ -6,6 +6,18 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
       "port": 3000
+    },
+    {
+      "name": "albaraka-site",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["D:/instagram-manager-bot/site/serve.mjs"],
+      "port": 4173
+    },
+    {
+      "name": "stanfordedu",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "D:/stanfordedu-lc", "run", "dev", "--", "D:/stanfordedu-lc", "--port", "3001"],
+      "port": 3001
     }
   ]
 }
